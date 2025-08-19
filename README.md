@@ -34,9 +34,15 @@ Before running the project, make sure you have:
 
 <img width="1912" height="932" alt="Screenshot 2025-08-19 210408" src="https://github.com/user-attachments/assets/c7d7f7d4-e3f9-4528-814e-6266e9a869d1" />
 
+<img width="1897" height="928" alt="Screenshot 2025-08-19 211517" src="https://github.com/user-attachments/assets/9bc908cd-0a0d-47cd-af67-749b18a8ce9c" />
+
+<img width="1913" height="927" alt="Screenshot 2025-08-19 210442" src="https://github.com/user-attachments/assets/750951f3-1702-4678-8700-5ec1b0229531" />
+
+<img width="1905" height="929" alt="Screenshot 2025-08-19 211430" src="https://github.com/user-attachments/assets/ee129c84-3327-423f-b816-92528e1c1fb2" />
 
 
-## 🚀 Quick Start (Recommended)
+
+## 🚀 Quick Start 
 
 ### Option 1: One-Click Setup (Windows)
 ```bash
