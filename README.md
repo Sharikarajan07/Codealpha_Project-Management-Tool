@@ -30,6 +30,10 @@ Before running the project, make sure you have:
 
 **Note**: No database installation required! Uses SQLite with automatic setup.
 
+## Result
+
+
+
 ## 🚀 Quick Start (Recommended)
 
 ### Option 1: One-Click Setup (Windows)
