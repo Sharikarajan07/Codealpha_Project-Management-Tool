@@ -283,14 +283,5 @@ npm run build
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🆘 Support
-
-If you encounter any issues:
-
-1. Check the troubleshooting section above
-2. Look for similar issues in the project repository
-3. Create a new issue with detailed information about the problem
-
----
 
 **Happy Project Managing! 🎉**
