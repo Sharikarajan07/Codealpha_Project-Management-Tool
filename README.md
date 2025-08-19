@@ -32,6 +32,8 @@ Before running the project, make sure you have:
 
 ## Result
 
+<img width="1912" height="932" alt="Screenshot 2025-08-19 210408" src="https://github.com/user-attachments/assets/c7d7f7d4-e3f9-4528-814e-6266e9a869d1" />
+
 
 
 ## 🚀 Quick Start (Recommended)
